@@ -10,6 +10,6 @@ redirect_from:
 
 Supplementary Material
 ======
-1. [**Supplementary material for "Learning to Transfer for Evolutionary Multitasking".**](https://github.com/wushenghao8404/wushenghao8404.github.io/raw/master/files/L2T-supplement.pdf) <br> Under review, 2023
+1. [**Supplementary material for "Learning to Transfer for Evolutionary Multitasking".**](https://wushenghao8404.github.io/files/L2T-supplement.pdf) <br> Under review, 2023
 
 
