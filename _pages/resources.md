@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resources"
-permalink: /resources/
+permalink: /resource/
 author_profile: true
 redirect_from:
   - /resume
