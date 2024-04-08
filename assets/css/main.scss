@@ -53,7 +53,9 @@
 
 .left-side,
 .right-side {
+  align-items: flex-start; /* 对齐项目到容器的起始行 */
   width: 50%; /* 设置子容器各占一半宽度 */
+  height: 'min-content'; /* 或者设置为 'min-content' 或具体的值 */
   // box-sizing: border-box; /* 防止padding和border影响宽度 */
 }
 
