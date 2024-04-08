@@ -12,7 +12,7 @@ title: &name "Shenghao Wu"
 title_separator: "-"
 name: *name
 description: &description "personal description"
-url: https://wushenghao8404.github.io/
+url: https://wushenghao8404.github.io
 baseurl: ""
 repository: "wushenghao8404/wushenghao8404.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : *name
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoc at PolyU"
   location         : "Earth"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
