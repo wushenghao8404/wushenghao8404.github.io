@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale: "zh-CN"
-title: "Shenghao Wu"
+title: &name "Shenghao Wu"
 title_separator: "-"
-name: &name "Shenghao Wu"
+name: *name
 description: &description "personal description"
 url: https://wushenghao8404.github.io/
 baseurl: ""
@@ -22,7 +22,7 @@ repository: "wushenghao8404/wushenghao8404.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : &name
+  name             : *name
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
