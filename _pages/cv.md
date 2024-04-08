@@ -30,9 +30,6 @@ Skills
 Publications
 ======
 Refer to [Publications](https://wushenghao8404.github.io/publications).
-  #<ul>{% for post in site.publications reversed %}
-  #  {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
   
 Services
 ======
