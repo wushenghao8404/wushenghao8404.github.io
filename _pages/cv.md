@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 * Full Name: Shenghao Wu
+
 {% include base_path %}
 
 Education
