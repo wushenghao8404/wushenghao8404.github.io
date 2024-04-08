@@ -21,7 +21,7 @@ repository: "wushenghao8404/wushenghao8404.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-wsh.png"
+  avatar           : "bio-photo-wsh.pdf"
   name             : *name
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at PolyU"
