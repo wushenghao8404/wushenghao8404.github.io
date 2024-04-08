@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 * Full Name: Shenghao Wu
+* Email: wushenghao8404@qq.com, shengwu@polyu.edu.hk
 
 Education
 ======
