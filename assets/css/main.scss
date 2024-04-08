@@ -46,18 +46,6 @@
 //   align-items: center; /* 垂直居中 */
 // }
 
-#clustrmaps-widget-v2 .clustrmaps-map-container {
-  background-color: rgb(45, 120, 173) !important; // 如果需要更改背景颜色
-}
-
-#clustrmaps-widget-v2 .clustrmaps-map.liveDotsReady {
-  height: 49px !important; // 设置为您希望的高度
-  width: auto !important; // 根据需要调整宽度
-}
-
-#clustrmaps-widget-v2 .jvectormap-container {
-  background-color: transparent !important; // 如果需要更改背景颜色
-}
 
 .footer-content {
   display: flex;
