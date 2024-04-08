@@ -40,21 +40,8 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* 添加到您的 CSS 文件 */
-.text-box {
-  display: inline-block; /* 或 flex, grid 等 */
-  width: 50%; /* 文字部分占据的宽度 */
-  vertical-align: top; /* 如果使用 inline-block 需要对齐顶部 */
-}
-
-.widget-box {
-  display: inline-block;
-  width: 50%; /* Widget 部分占据的宽度 */
-  vertical-align: top;
-}
-
-/* 如果使用 flexbox */
-.container {
+.footer-content {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between; /* 或者使用其他的对齐方式，如 center, space-around */
+  align-items: center; /* 垂直居中 */
 }
