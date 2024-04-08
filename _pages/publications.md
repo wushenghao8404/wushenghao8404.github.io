@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. [**Transferable Adaptive Differential Evolution for Many-Task Optimization.**](https://ieeexplore.ieee.org/abstract/document/10040733) <br> **Sheng-Hao Wu**, Zhi-Hui Zhan, Kay Chen Tan, Jun Zhang. <br> IEEE Transactions on Evolutionary Cybernetics (**TCYB**) 2023
+2. [**Orthogonal transfer for multitask optimization.**](https://ieeexplore.ieee.org/abstract/document/9737234) <br> **Sheng-Hao Wu**, Zhi-Hui Zhan, Kay Chen Tan, Jun Zhang. <br> IEEE Transactions on Evolutionary Computation (**TEVC**) 2023
+3. [**SAFE: Scale-adaptive fitness evaluation method for expensive optimization problems.**](https://ieeexplore.ieee.org/abstract/document/9324797) <br> **Sheng-Hao Wu**, Zhi-Hui Zhan, Jun Zhang. <br> IEEE Transactions on Evolutionary Computation (**TEVC**) 2021
