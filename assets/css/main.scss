@@ -54,7 +54,7 @@
 .left-side,
 .right-side {
   width: 50%; /* 设置子容器各占一半宽度 */
-  box-sizing: border-box; /* 防止padding和border影响宽度 */
+  // box-sizing: border-box; /* 防止padding和border影响宽度 */
 }
 
 .left-side {
