@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale: "zh-CN"
-title: &name "Shenghao Wu"
+title: "Shenghao Wu's homepage"
 title_separator: "-"
-name: *name
+name: "Shenghao Wu"
 description: &description "personal description"
 url: https://wushenghao8404.github.io
 baseurl: ""
@@ -21,8 +21,8 @@ repository: "wushenghao8404/wushenghao8404.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-wsh.pdf"
-  name             : *name
+  avatar           : "bio-photo-wsh-2.pdf"
+  name             : "Shenghao Wu (邬晟豪)"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at PolyU"
   location         : "Earth"
