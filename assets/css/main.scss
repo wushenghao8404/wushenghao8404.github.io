@@ -40,6 +40,12 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.footer-container { /* 假设 .footer-container 是包含页脚文本和 Widget 的容器 */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* 使子项与容器的开始边缘对齐 */
+}
+
 #clustrmaps-widget {
-  margin-left: same-as-footer-text;
+  /* 不需要特定的外边距，因为 flex 容器已经处理了对齐 */
 }
