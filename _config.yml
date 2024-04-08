@@ -21,10 +21,10 @@ repository: "wushenghao8404/wushenghao8404.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo-wsh.png"
   name             : *name
   pronouns         : # example: "she/her"  
-  bio              : "bio-photo-wsh.png"
+  bio              : "Postdoc at PolyU"
   location         : "Earth"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
