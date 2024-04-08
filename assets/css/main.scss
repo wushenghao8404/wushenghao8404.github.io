@@ -48,19 +48,22 @@
 
 .footer-content {
   display: flex;
-  flex-wrap: wrap; /* 允许子项在必要时换行 */
+  flex-wrap: wrap; /* 允许子项换行 */
 }
 
-.page__footer-follow,
-.page__footer-copyright {
-  width: 50%; /* 设置这两个元素各占左侧一半宽度 */
-  box-sizing: border-box; /* 确保padding和border不会增加元素宽度 */
+.left-side,
+.right-side {
+  width: 50%; /* 设置子容器各占一半宽度 */
+  box-sizing: border-box; /* 防止padding和border影响宽度 */
 }
 
-.page__footer-clustrmaps-widget {
-  width: 50%; /* 设置占右侧一半宽度 */
-  box-sizing: border-box; /* 确保padding和border不会增加元素宽度 */
-  display: flex; /* 使得widget内的内容可以使用Flexbox居中 */
+.left-side {
+  display: flex;
+  flex-direction: column; /* 子元素垂直排列 */
+}
+
+.right-side {
+  display: flex;
   justify-content: center; /* 水平居中 */
   align-items: center; /* 垂直居中 */
 }
