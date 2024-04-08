@@ -6,9 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-* Full Name: Shenghao Wu
 
-{% include base_path %}
+* Full Name: Shenghao Wu
 
 Education
 ======
