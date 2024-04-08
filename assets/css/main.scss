@@ -46,6 +46,10 @@
 //   align-items: center; /* 垂直居中 */
 // }
 
+#clustrmaps-widget-v2 {
+  height: 49px !important; /* 设置高度为适当的值，'!important' 确保覆盖内联样式 */
+}
+
 .footer-content {
   display: flex;
   flex-wrap: wrap; /* 允许子项换行 */
@@ -59,11 +63,6 @@
   margin: 0;
   padding: 0;
   // box-sizing: border-box; /* 防止padding和border影响宽度 */
-}
-
-#clustrmaps-widget-v2 {
-  padding: 0 !important;  /* 移除 padding，'!important' 确保覆盖内联样式 */
-  height: 49px !important; /* 设置高度为适当的值，'!important' 确保覆盖内联样式 */
 }
 
 .left-side {
