@@ -61,6 +61,11 @@
   // box-sizing: border-box; /* 防止padding和border影响宽度 */
 }
 
+#clustrmaps-widget-v2 {
+  padding: 0 !important;  /* 移除 padding，'!important' 确保覆盖内联样式 */
+  height: 49px !important; /* 设置高度为适当的值，'!important' 确保覆盖内联样式 */
+}
+
 .left-side {
   display: flex;
   flex-direction: column; /* 子元素垂直排列 */
@@ -71,3 +76,4 @@
   justify-content: center; /* 水平居中 */
   align-items: center; /* 垂直居中 */
 }
+
