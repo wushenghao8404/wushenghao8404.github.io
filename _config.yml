@@ -21,7 +21,7 @@ repository: "wushenghao8404/wushenghao8404.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-wsh-2.pdf"
+  avatar           : "bio-photo-wsh-2.png"
   name             : "Shenghao Wu (邬晟豪)"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at PolyU"
