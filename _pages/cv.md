@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+* Full Name: Shenghao Wu
 {% include base_path %}
 
 Education
@@ -22,9 +22,9 @@ Work experience
 
 Skills
 ======
-* **Programming Languages:** Python, Matlab, C++.
-* **Techniques:** Bayesian Optimization, Distributed Evolutionary Optimization, Deep Learning.
-* **Frameworks:** PyTorch, Ray, Deap.
+* Programming Languages: Python, Matlab, C++
+* Techniques: Bayesian Optimization, Distributed Evolutionary Optimization, Deep Learning
+* Frameworks: PyTorch, Ray, Deap
 
 Publications
 ======
@@ -34,4 +34,4 @@ Publications
   
 Services
 ======
-* Journal Reviewer: IEEE Transactions on Evolutionary Computation, IEEE Transactions on Cybernetics, IEEE Transactions on Systems, Man, and Cybernetics: Systems, IEEE Transactions on Cognitive and Developmental Systems.
+* Journal Reviewer: IEEE Transactions on Evolutionary Computation, IEEE Transactions on Cybernetics, IEEE Transactions on Systems, Man, and Cybernetics: Systems, IEEE Transactions on Cognitive and Developmental Systems
