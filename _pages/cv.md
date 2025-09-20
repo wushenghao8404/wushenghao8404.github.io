@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 * Full Name: Shenghao Wu
-* Email: wushenghao8404@qq.com, shwu@scau.edu.cn
+* Email: <wushenghao8404@qq.com>, <shwu@scau.edu.cn>
 
 Education
 ======
