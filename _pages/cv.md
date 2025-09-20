@@ -28,7 +28,7 @@ redirect_from:
 - **Post-Doctoral Research Fellow** (2023–2025)  
   *Department of Data Science and Artificial Intelligence, PolyU*
 
-- **Intern, IT Department** (Fall 2022)  
+- **Intern** (Fall 2022)  
   *IT Department, GF Securities*  
   Project: Develop intelligent grid strategy for automated trading system
 
