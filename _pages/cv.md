@@ -29,7 +29,7 @@ redirect_from:
   *Department of Data Science and Artificial Intelligence, PolyU*
 
 - **Intern, IT Department** (Fall 2022)  
-  *GF Securities*  
+  *IT Department, GF Securities*  
   Project: Develop intelligent grid strategy for automated trading system
 
 ---
@@ -51,7 +51,7 @@ See: [Publications](https://wushenghao8404.github.io/publications)
 
 ---
 
-## 🏆 **Professional Services**
+## 👥 **Professional Services**
 
 - **Journal Reviewer:**  
   IEEE Transactions on Evolutionary Computation  
