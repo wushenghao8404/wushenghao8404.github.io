@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# **Shenghao Wu (邬晟豪)**
+# **Shenghao Wu**
 
 **Email:**  
 <wushenghao8404@qq.com> | <shwu@scau.edu.cn>
