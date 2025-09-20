@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 * Full Name: Shenghao Wu
-* Email: wushenghao8404@qq.com, shengwu@polyu.edu.hk
+* Email: wushenghao8404@qq.com, shwu@scau.edu.cn
 
 Education
 ======
@@ -19,7 +19,9 @@ Work experience
 ======
 * Fall 2022: Internship in IT Department
   * GF Securities
-  * Duties included: develop intelligent grid strategy for automated trading system
+  * Duties included: Develop intelligent grid strategy for automated trading system
+* 2023-2025: Post-Doctoral Research Fellow
+  * Department of Data Science and Artificial Intelligence, PolyU
 
 Skills
 ======
