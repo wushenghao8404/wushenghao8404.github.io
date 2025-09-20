@@ -30,7 +30,7 @@ redirect_from:
 
 - **Intern, IT Department** (Fall 2022)  
   *GF Securities*  
-  - Developed intelligent grid strategy for automated trading system
+  Project: Develop intelligent grid strategy for automated trading system
 
 ---
 
